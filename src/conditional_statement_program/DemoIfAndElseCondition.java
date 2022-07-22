@@ -1,4 +1,4 @@
-//program for check condition true and false:
+//TODO: program for check condition true and false:
 
 package conditional_statement_program;
 

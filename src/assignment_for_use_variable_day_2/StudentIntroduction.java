@@ -1,4 +1,4 @@
-//program for use implementation variable:
+//TODO: program for use implementation variable:
 
 package assignment_for_use_variable_day_2;
 

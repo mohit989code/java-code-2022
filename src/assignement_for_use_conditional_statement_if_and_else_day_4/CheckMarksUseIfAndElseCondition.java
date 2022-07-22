@@ -1,4 +1,4 @@
-// program for check student marks use (IF AND ELSE) condition:
+// TODO: program for check student marks use (IF AND ELSE) condition
 
 package assignement_for_use_conditional_statement_if_and_else_day_4;
 

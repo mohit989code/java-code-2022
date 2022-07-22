@@ -1,4 +1,4 @@
-//program for add name
+//TODO: program for add name
 
 package assignment_for_print_text_day_1;
 

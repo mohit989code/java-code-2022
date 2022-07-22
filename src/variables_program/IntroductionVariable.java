@@ -1,4 +1,4 @@
-//program for how to use variable:
+//TODO: program for how to use variable:
 
 package variables_program;
 

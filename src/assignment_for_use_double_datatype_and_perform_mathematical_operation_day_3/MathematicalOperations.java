@@ -1,4 +1,4 @@
-//program for variable mathematical operation using double operator:
+//TODO: program for variable mathematical operation using double operator:
 
 package assignment_for_use_double_datatype_and_perform_mathematical_operation_day_3;
 

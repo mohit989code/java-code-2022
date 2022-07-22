@@ -1,3 +1,5 @@
+//TODO: program for print text
+
 package variables_program;
 
 public class DemoGit {
