@@ -9,12 +9,18 @@ public class CheckMarksUseIfAndElseCondition {
         int marks=78;
 
         if(marks>=70){
-            System.out.println("first devision");}
+            System.out.println("first division");}
 
-            else{
-                System.out.println("second devision");
+        marks=55;
+
+        if(marks>50){
+                System.out.println("second division");
 
             }
+        marks=45;
+        if(marks>40){
+            System.out.println("third division");
+        }
 
 
         }
