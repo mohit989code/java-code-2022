@@ -2,7 +2,7 @@
 
 package conditional_statement_program;
 
-public class DemoMultipleIfCondition {
+public class DemoMultipleIfConditionAND_Operator {
 
     public static void main(String[] args) {
 
