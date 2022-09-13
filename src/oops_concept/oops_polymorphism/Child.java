@@ -1,6 +1,6 @@
 //TODO: This is MethodOverriding Child Class
 
-package oops_polymorphism;
+package oops_concept.oops_polymorphism;
 
 public class Child extends MethodOverriding{
 

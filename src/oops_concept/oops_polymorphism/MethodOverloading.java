@@ -1,6 +1,6 @@
 //TODO:Program for How to use Compile Time Polymorphism
 
-package oops_polymorphism;
+package oops_concept.oops_polymorphism;
 
 public class MethodOverloading {
 
