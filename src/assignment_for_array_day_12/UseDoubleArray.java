@@ -4,7 +4,7 @@ package assignment_for_array_day_12;
 
 public class UseDoubleArray {
 
-    public static void main(String[] args) {
+     public static void main(String[] args) {
 
         double percentage []={99.9,33.3,55.3,77.3,45.6};
         System.out.println("print percentage index number: " +percentage[2]);
