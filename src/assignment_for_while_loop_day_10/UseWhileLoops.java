@@ -8,7 +8,7 @@ public class UseWhileLoops {
 
         int n = 1;
 
-        while (n <= 10) {
+        while (n<=10) {
 
             int store = n * 9;
 
@@ -16,14 +16,16 @@ public class UseWhileLoops {
             n++;
         }
 
+        System.out.println("\n " +"PRINT TABLE OF NINE IN REVERSE ORDER");
+
             int i = 10;
 
-            while (i >= 1) {
+            while (i>=1) {
 
                 int collect = i * 9;
 
                 System.out.println("PRINT TABLE OF NINE:" + 9 + "x" + i + "=" + collect);
-                n--;
+                i--;
 
 
             }

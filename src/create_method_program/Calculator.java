@@ -2,7 +2,8 @@
 
 package create_method_program;
 
-public class Calculator {
+public class
+Calculator {
 
     public void add(){
         int a=8,b=16,result;
